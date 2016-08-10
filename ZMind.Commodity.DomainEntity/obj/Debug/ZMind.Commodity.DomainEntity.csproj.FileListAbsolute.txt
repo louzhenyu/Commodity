@@ -1,0 +1,10 @@
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\ZMind.Commodity.DomainEntity.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\ZMind.Commodity.DomainEntity.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\SolrNet.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\SolrNet.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\bin\Debug\SolrNet.xml
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\obj\Debug\ZMind.Commodity.DomainEntity.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DomainEntity\obj\Debug\ZMind.Commodity.DomainEntity.pdb

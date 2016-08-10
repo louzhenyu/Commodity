@@ -1,0 +1,4 @@
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DTO\bin\Debug\ZMind.Commodity.DTO.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DTO\bin\Debug\ZMind.Commodity.DTO.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DTO\obj\Debug\ZMind.Commodity.DTO.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.DTO\obj\Debug\ZMind.Commodity.DTO.pdb

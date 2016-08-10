@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ZMind.Commodity.WCF.CommodityService" CodeBehind="CommodityService.svc.cs" %>

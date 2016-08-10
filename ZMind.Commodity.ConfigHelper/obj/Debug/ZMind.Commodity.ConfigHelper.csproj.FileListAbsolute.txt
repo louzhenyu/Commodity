@@ -1,0 +1,17 @@
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.ConfigHelper.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.ConfigHelper.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\AutoMapper.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\SolrNet.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.DomainEntity.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.DTO.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.DomainEntity.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\ZMind.Commodity.DTO.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\AutoMapper.xml
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\SolrNet.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\bin\Debug\SolrNet.xml
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\obj\Debug\ZMind.Commodity.ConfigHelper.csprojResolveAssemblyReference.cache
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\obj\Debug\ZMind.Commodity.ConfigHelper.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.ConfigHelper\obj\Debug\ZMind.Commodity.ConfigHelper.pdb

@@ -1,0 +1,8 @@
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\bin\Debug\ZMind.Commodity.Test.exe.config
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\bin\Debug\ZMind.Commodity.Test.exe
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\bin\Debug\ZMind.Commodity.Test.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\obj\Debug\ZMind.Commodity.Test.csprojResolveAssemblyReference.cache
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\obj\Debug\ZMind.Commodity.Test.exe
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\obj\Debug\ZMind.Commodity.Test.pdb
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\bin\Debug\ZMind.Commodity.DTO.dll
+F:\work\solr\ZMind.Commodity.MS\ZMind.Commodity.Test\bin\Debug\ZMind.Commodity.DTO.pdb

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ZMind.Commodity.DTO.Response" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ZMind.Commodity.DTO.Response" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ResponseCommodity">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ErrorCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ErrorMessage" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ResponseCommodityDetailList" nillable="true" type="tns:ArrayOfCommodity" />
+      <xs:element minOccurs="0" name="TotalCount" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ResponseCommodity" nillable="true" type="tns:ResponseCommodity" />
+  <xs:complexType name="ArrayOfCommodity">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Commodity" nillable="true" type="tns:Commodity" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCommodity" nillable="true" type="tns:ArrayOfCommodity" />
+  <xs:complexType name="Commodity">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BatId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BeginTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BrandId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BuyType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CouponUrl" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CreateTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CreateUserId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CustomerId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DataFrom" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Degree" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DiscountRate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayIndex" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EdProp" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EndTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EveryoneSalesPrice" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FactoryName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ForPoints" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gg" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IfFlag" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IfGifts" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IfOften" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IfService" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageUrl" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageUrl2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageUrl3" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageUrlFirst" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Integral" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IntegralExchange" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsEveryoneSales" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsExchange" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsGb" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsIAlumniItem" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsOnline" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemCategoryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemCategoryName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemDisplayIndex" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemIntroduce" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemNameEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemNameShort" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemParaIntroduce" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemRemark" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemSortDesc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemTypeDesc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ItemUnit" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModifyTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModifyUserId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="OffersTips" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PTypeCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PTypeId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prop1Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prop2DetailName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prop2Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prop3Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pyzjm" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Qty" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ReturnAmount" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RoomDesc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RoomImg" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SalesPrice" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SalesQty" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ScanCodeIntegral" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SkuId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SkuPropId3" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusDesc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Tel" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UseInfo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Commodity" nillable="true" type="tns:Commodity" />
+</xs:schema>

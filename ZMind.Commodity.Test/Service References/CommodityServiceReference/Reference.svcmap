@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cf27e0ce-d966-4675-91cf-5ca3d7ba3d05" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:39278/CommodityService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CommodityService.disco" MetadataType="Disco" ID="3988e59e-da3b-4578-aaa3-9c4652b1cb3a" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?disco" />
+    <MetadataFile FileName="CommodityService.xsd" MetadataType="Schema" ID="c1f7ca8c-8d50-4eb5-ae24-dc47999efa61" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?xsd=xsd3" />
+    <MetadataFile FileName="CommodityService1.xsd" MetadataType="Schema" ID="e3ae01fa-9531-4a66-9756-9e516ad84fd0" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CommodityService.wsdl" MetadataType="Wsdl" ID="12bfe2ae-317b-41c9-87cc-6c2b2324f2ba" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?wsdl" />
+    <MetadataFile FileName="CommodityService2.xsd" MetadataType="Schema" ID="962169db-57db-4d20-a0c3-ecc7c4cd2463" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CommodityService3.xsd" MetadataType="Schema" ID="ee8a68bd-958f-4724-ab80-2f855772f630" SourceId="1" SourceUrl="http://localhost:39278/CommodityService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
